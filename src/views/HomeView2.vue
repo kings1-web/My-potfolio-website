@@ -28,7 +28,7 @@ services for any project.</h2>
 <a href="https://whatsapp.com/dl/code=UDEHscKNIm">text me for price</a>
 </div>
 <div class="image2">
-<img src="../assets/bg-13.jpg" alt="my profile image">
+<img src="../assets/bg-7.jpg" alt="my profile image">
 <h2>your priority is our business, <br>
 get in touch, <br>
 we are at your service.</h2>
