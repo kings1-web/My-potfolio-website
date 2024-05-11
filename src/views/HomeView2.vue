@@ -28,7 +28,7 @@ services for any project.</h2>
 <a href="https://whatsapp.com/dl/code=UDEHscKNIm">text me for price</a>
 </div>
 <div class="image2">
-<img src="../assets/bg-7.jpg" alt="my profile image">
+<img src="../assets/bg-13.jpg" alt="my profile image">
 <h2>your priority is our business, <br>
 get in touch, <br>
 we are at your service.</h2>
@@ -74,6 +74,7 @@ local regulation, and budget constraints.</p>
 </div>
 <div class="specific">
 <div class="face">
+<h2 style="text-align:center">FAQ</h2>
 <details>
 <summary>what are the benenfit of using my web design and S.E.O 
 services?<div class="icon"><i class="fa-solid fa-chevron-down"></i></div></summary>
@@ -192,8 +193,6 @@ export default{
 max-width:100%;
 text-align:center;
 padding:2em;
-opacity:0.
-
 }
 
 h1{
