@@ -25,7 +25,7 @@ communication and problem-solving skills,
 services for any project.</h2>
 <br><br>
 
-<a href="https://whatsapp.com/dl/code=UDEHscKNIm">text me for price</a>
+<a href="https://wa.link/3pxzcs">text me for price</a>
 </div>
 <div class="image2">
 <img src="../assets/bg-13.jpg" alt="my profile image">
@@ -169,7 +169,7 @@ better results.</p>
  is optimized for maximum result, from attracting and engaging visitors to 
  converting them into loyal customers."</p>
  <h2>get in touch with me directly</h2>
-<a href="https://whatsapp.com/dl/code=UDEHscKNIm" class="animate__animated animate__flas animate__infinite">chat me up</a>
+<a href="https://wa.link/3pxzcs" class="animate__animated animate__flas animate__infinite">chat me up</a>
 </div>
 </div>
 </template>
@@ -284,6 +284,7 @@ grid-gap:3rem
     line-height:1.3;
     overflow:auto;
     box-sizing:border-box;
+    user-select:none
     
 
 
