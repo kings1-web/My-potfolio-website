@@ -23,13 +23,13 @@ export default{
 </script>
 
 <style lang="css" scoped>
-  @media all and (min-width:800rem){
+  @media all and (min-width:100%){
  *{
   max-width:100%;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-size:1em
+  font-size:1em;
  }
   }
  #nav {

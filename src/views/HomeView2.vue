@@ -214,7 +214,7 @@ h1{
     text-align:center
 }
 .contact{
-    font-size:2em;
+    font-size:1.5em;
     text-align:center
 }
 .nice {
@@ -227,7 +227,6 @@ h1{
     text-align:center;
     font-size:1.5rem;
     line-height:1.5em;
-    padding-left:2em
 }
 .contain{
     position:relative;
@@ -261,28 +260,27 @@ a{
    text-decoration:none;
    background:#1d3557;
    color:#fff;
-   font-size:2em;
-   overflow:hidden;
+   font-size:2rem;
+   overflow:hiddn;
    padding:1rem
    
  
  }
 .heading,.container,.specific {
-    min-width:100%;
+    max-width:100%;
 display:grid;
-grid-auto-columns:minmax(10rem,auto);
-grid-template-columns:repeat(auto-fill,minmax(30rem,1fr));
+grid-auto-columns:minmax(30rem,auto);
+grid-template-columns:repeat(auto-fit,minmax(30rem,1fr));
+grid-auto-rows: minmax(100px, auto);
 grid-gap:3rem
 }
 .read{
     font-family:"roboto", sans-serif;
-    min-width:100%;
     position:absolute;
     background:black;
     color:#f2f2f2f2;
-    padding:4rem;
+    padding:3rem;
     text-transform:capitalize;
-    word-spacing:rem;
     line-height:1.3;
     overflow:auto;
     box-sizing:border-box;
@@ -292,7 +290,7 @@ grid-gap:3rem
 
 }
 .heading{
-    margin-top:10rem;
+    margin-top:5rem;
   
 
 }
@@ -318,7 +316,7 @@ grid-gap:3rem
  padding-left:30px
 }
 .faq-container{
-    max-width:100%;
+    max-width:%;
     margin:24px auto;
     font-family:"roboto", sans-serif;
 }
