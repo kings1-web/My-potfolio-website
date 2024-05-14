@@ -1,5 +1,4 @@
-<script>
-</script>
+
 <template>
 <div id="nav">
 <div>
@@ -16,11 +15,13 @@
   </transition>
   </Router-view>
 </template>
+
 <script>
 export default{
-  name:"App"
+  name:"App",
 }
 </script>
+
 <style lang="css" scoped>
   @media all and (min-width:800rem){
  *{

@@ -225,7 +225,7 @@ h1{
 }
 .contain, .quote{
     text-align:center;
-    font-size:1.9rem;
+    font-size:1.5rem;
     line-height:1.5em;
     padding-left:2em
 }
@@ -275,6 +275,7 @@ grid-template-columns:repeat(auto-fill,minmax(30rem,1fr));
 grid-gap:3rem
 }
 .read{
+    font-family:"roboto", sans-serif;
     min-width:100%;
     position:absolute;
     background:black;

@@ -93,15 +93,16 @@ export default{
     max-width:100%;
     max-height:100em;
     text-transform:capitalize;
-    word-spacing:4px;
-    letter-spacing:3px;
+    word-spacing:3px;
+    letter-spacing:2px;
     line-height:40px;
     background-image:url('../assets/bg-7.jpg');
     background-repeat:no-repeat;
     background-size:contain;
     opacity:0.8;
     text-shadow:3px 2px 10px lightgray;
-    overflow: auto
+    overflow: auto;
+    padding:1.5em
     
 
 
