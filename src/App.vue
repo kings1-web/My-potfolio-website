@@ -41,6 +41,9 @@ export default{
   float:right;
 
   
+
+
+  
  }
  #nav a{
   float:right;
@@ -51,7 +54,7 @@ export default{
   text-align:center;
   font-size:1em;
   text-decoration:none;
-  margin-right:20px;
+  margin-right:16px;
  }
  #nav a:hover{
   background:#fff;
@@ -62,7 +65,6 @@ export default{
   COLOR:#fff;
   font-size:1rem;
   margin-left:2em;
-  padding:px
  }
  .scale-slide-enter-active,
  .scale-slide-leave-active {
