@@ -222,7 +222,7 @@ h1{
     text-transform:uppercase;
     font-size:1rem;
     line-height:1.7em;
-    background:#1d3557
+
 }
 .contain, .quote{
     text-align:center;
@@ -278,7 +278,7 @@ grid-gap:3rem
 .read{
     font-family:"roboto", sans-serif;
     position:absolute;
-    background:#29539B;
+    background:#000;
     color:#f2f2f2f2;
     padding:3rem;
     text-transform:capitalize;
