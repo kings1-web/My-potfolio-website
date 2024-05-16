@@ -277,7 +277,7 @@ grid-gap:3rem
 .read{
     font-family:"roboto", sans-serif;
     position:absolute;
-    background:linear-gradient(112.1deg,rgb(32,38,57)11.4%,rgb(63,76,119)70.2%);
+    background:#29539B;
     color:#f2f2f2f2;
     padding:3rem;
     text-transform:capitalize;
