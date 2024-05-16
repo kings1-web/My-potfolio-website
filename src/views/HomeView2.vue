@@ -74,7 +74,7 @@ local regulation, and budget constraints.</p>
 </div>
 <div class="specific">
 <div class="face">
-<h2 style="text-align:center">FAQ</h2>
+<h2 style="text-align:center; color:#1d3557">FAQ</h2>
 <details>
 <summary>what are the benenfit of using my web design and S.E.O 
 services?<div class="icon"><i class="fa-solid fa-chevron-down"></i></div></summary>
@@ -200,7 +200,7 @@ h1{
 }
 
 .specific{
-    background:gray;
+    background:#f2f2f2f2;
      tex-align:center;
      justify-content:center;
      max-width:100%;
