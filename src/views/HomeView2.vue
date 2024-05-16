@@ -222,6 +222,7 @@ h1{
     text-transform:uppercase;
     font-size:1rem;
     line-height:1.7em;
+    background:#1d3557
 }
 .contain, .quote{
     text-align:center;
@@ -292,9 +293,8 @@ grid-gap:3rem
 }
 .heading{
     margin-top:5rem;
-  
-
 }
+
 .project{
     text-align:center;
     margin-top:60px;
