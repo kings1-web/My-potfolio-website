@@ -7,7 +7,7 @@
 <div class="btn">
 <button @click="open = false"><i class="fas fa-times"></i></button>
 </div>
-<h3>website development</h3>
+<h3>website developer</h3>
 <p>design and development of custom websites, including e-commerce sites,
 potfolios, and personal blogs.</p>
 <h3>funnel building</h3>
@@ -16,10 +16,10 @@ check out pages, to convert visitors into a loyal customers.</p>
 <h3>website design</h3>
 <p>design and improvement of existing websites, including layout, graphics, 
 and overrall user experiences.</p>
-<h3>website maintenanc</h3>
+<h3>website maintenances</h3>
 <p>ongoing maintenace and support of a websites, includings bugs fixings,
 security updates, and performance of optimization.</P>
-<h3>e-commerce development</h3>
+<h3>e-commerce developer</h3>
 <p>development of omline store, including product management, payment processing,
  and shipping integration.</p>
  <h3>website optimization</h3>
@@ -31,7 +31,7 @@ security updates, and performance of optimization.</P>
    <h3>conversion rate optimization</h3>
    <p>analysis and improvement of website metrics, such as conversion rate,
    to increase sales and revenue.</p>
-   <h3>custom development</h3>
+   <h3>custom developer</h3>
    <p>development of custom web applications, including online calculators,
    quizzes, and forms.</p>
 </div>
@@ -63,7 +63,7 @@ export default {
     transform:translate(-px, -px);
     max-height:84%;
     max-width:100%;
-    padding:32px;
+    padding:2.3rem;
     background:#1d3557;
     overflow-y:scroll;
     text-align:center;
@@ -79,7 +79,7 @@ export default {
 
 }
 .btn i {
-    color:#fff;
+    color:#f2f2f2f2;
     border-radius:50%;
     opacity:1;
     cursor:pointer;
@@ -89,7 +89,7 @@ export default {
     border-radius:50%;
     border:none;
     font-size:1.5rem;
-    background:black;
+    background:#3333;
     
 }
 .animate__animated{

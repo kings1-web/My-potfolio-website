@@ -10,9 +10,9 @@ HELLO, my name is
 <hr>
 </div>
 <h1>
- kingsley<br> nwachukwu
+ kingsley nwachukwu
 </h1>
-<h2>i am an experience, motivated and reliable freelancer.
+<h3>i am an experience, motivated and reliable freelancer.
  who is dedicated to
 providing quality services to clients.
 i have years of experience, in various field
@@ -22,10 +22,10 @@ i take great pride in my work. and  am commited
 to meeting my clients needs. i have excellent
 communication and problem-solving skills,
  and am confident and i can provide the best
-services for any project.</h2>
+services for any project.</h3>
 <br><br>
 
-<a href="https://wa.link/3pxzcs">text me for price</a>
+<a href="https://wa.link/3pxzcs">let's get started</a>
 </div>
 <div class="image2">
 <img src="../assets/bg-13.jpg" alt="my profile image">
@@ -169,7 +169,7 @@ better results.</p>
  is optimized for maximum result, from attracting and engaging visitors to 
  converting them into loyal customers."</p>
  <h2>get in touch with me directly</h2>
-<a href="https://wa.link/3pxzcs" class="animate__animated animate__flas animate__infinite">chat me up</a>
+<a href="https://wa.link/3pxzcs">chat me up</a>
 </div>
 </div>
 </template>
@@ -190,13 +190,14 @@ export default{
 
 <style scoped>
 .image2{
-max-width:100%;
+max-width:350px;
 text-align:center;
-padding:2em;
+padding:3em;
+margin-top:-2em
 }
 
 h1{
-    font-size:5rem;
+    font-size:3rem;
 }
 
 .specific{
@@ -206,9 +207,8 @@ h1{
      max-width:100%;
     margin:24px auto;
     font-family:"roboto", sans-serif;
-
-
 }
+
 .special{
     padding:2rem;
     text-align:center
@@ -220,8 +220,9 @@ h1{
 .nice {
     width:13rem;
     text-transform:uppercase;
-    font-size:1rem;
+    font-size:rem;
     line-height:1.7em;
+    margin-top:-7em
 
 }
 .contain, .quote{
@@ -252,7 +253,7 @@ img{
     border-bottom:10px solid #1d3557;
     border-radius:5%;
     border-top:10px solid  #1d3557;
-    margin-bottom:30px;
+    margin-bottom:35px;
     text-align:center;
     height:25em
 }
@@ -263,7 +264,7 @@ a{
    color:#fff;
    font-size:2rem;
    overflow:hiddn;
-   padding:1rem
+   padding:1rem;
    
  
  }
@@ -273,19 +274,19 @@ display:grid;
 grid-auto-columns:minmax(30rem,auto);
 grid-template-columns:repeat(auto-fit,minmax(30rem,1fr));
 grid-auto-rows: minmax(100px, auto);
-grid-gap:3rem
+grid-gap:2rem
 }
 .read{
     font-family:"roboto", sans-serif;
     position:absolute;
-    background:#000;
+    background:#2B4162;
     color:#f2f2f2f2;
-    padding:3rem;
+    padding:9rem;
     text-transform:capitalize;
     line-height:1.3;
     overflow:auto;
     box-sizing:border-box;
-    user-select:none
+    user-select:none;
     
 
 
@@ -297,20 +298,19 @@ grid-gap:3rem
 
 .project{
     text-align:center;
-    margin-top:60px;
+    margin-top:6px;
     color:#7ce8ff
 }
 .step,.task{
     border-bottom:10px solid #1d3557;
     border-radius:5%;
     border-top:10px solid  #1d3557;
-    margin-bottom:30px;
+    margin-bottom:40px;
     font-size:1.5rem;
     color:#f2f2f2f2;
-    padding:3rem
  }
 .heading .image2 img{
- height:30rem;
+ height:20rem;
  border-radius:50%;
  text-align:center;
  justify-content:center;
