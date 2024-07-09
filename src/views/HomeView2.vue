@@ -190,10 +190,11 @@ export default{
 
 <style scoped>
 .image2{
-max-width:350px;
+width:40%;
 text-align:center;
-padding:3em;
-margin-top:-2em
+padding-left:9em;
+margin-top:-2em;
+height:20%
 }
 
 h1{
@@ -204,30 +205,30 @@ h1{
     background:#f2f2f2f2;
      tex-align:center;
      justify-content:center;
-     max-width:100%;
+     width:;
     margin:24px auto;
     font-family:"roboto", sans-serif;
 }
 
 .special{
-    padding:2rem;
+    padding:1rem;
     text-align:center
 }
 .contact{
-    font-size:1.5em;
+    font-size:1em;
     text-align:center
 }
 .nice {
     width:13rem;
     text-transform:uppercase;
-    font-size:rem;
+    font-size:1rem;
     line-height:1.7em;
-    margin-top:-7em
+    margin-top:-3em
 
 }
 .contain, .quote{
     text-align:center;
-    font-size:1.5rem;
+    font-size:1rem;
     line-height:1.5em;
 }
 .contain{
@@ -255,38 +256,39 @@ img{
     border-top:10px solid  #1d3557;
     margin-bottom:35px;
     text-align:center;
-    height:25em
+    height:auto;
+                                                              
 }
 a{
     text-align:center;
    text-decoration:none;
    background:#1d3557;
    color:#fff;
-   font-size:2rem;
+   font-size:1rem;
    overflow:hiddn;
    padding:1rem;
-   
- 
- }
+}
 .heading,.container,.specific {
     max-width:100%;
 display:grid;
 grid-auto-columns:minmax(30rem,auto);
-grid-template-columns:repeat(auto-fit,minmax(30rem,1fr));
-grid-auto-rows: minmax(100px, auto);
-grid-gap:2rem
+grid-template-columns:repeat(auto-fit,minmax(22rem,1fr));
+grid-auto-rows:minmax(100px, auto);
+grid-gap:2rem;
 }
+ 
 .read{
     font-family:"roboto", sans-serif;
     position:absolute;
     background:#2B4162;
     color:#f2f2f2f2;
-    padding:9rem;
+    padding:3rem;
     text-transform:capitalize;
     line-height:1.3;
     overflow:auto;
     box-sizing:border-box;
     user-select:none;
+
     
 
 
@@ -306,11 +308,12 @@ grid-gap:2rem
     border-radius:5%;
     border-top:10px solid  #1d3557;
     margin-bottom:40px;
-    font-size:1.5rem;
+    font-size:1.6rem;
     color:#f2f2f2f2;
+    height:auto;
  }
 .heading .image2 img{
- height:20rem;
+ height:rem;
  border-radius:50%;
  text-align:center;
  justify-content:center;

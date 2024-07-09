@@ -23,15 +23,6 @@ export default{
 </script>
 
 <style lang="css" scoped>
-  @media all and (min-width:100%){
- *{
-  max-width:100%;
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-size:1em;
- }
-  }
  #nav {
   background-color:#3333;
   overflow:hidden;
@@ -50,7 +41,7 @@ export default{
   text-align:center;
   justify-content:center;
   color:#fff;
-  padding-top:10px;
+  padding-top:1rem;
   text-align:center;
   font-size:1em;
   text-decoration:none;
@@ -64,7 +55,7 @@ export default{
   display:flex;
   COLOR:#fff;
   font-size:1rem;
-  margin-left:4em;
+  margin-left:2em;
  }
  .scale-slide-enter-active,
  .scale-slide-leave-active {

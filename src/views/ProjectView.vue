@@ -6,7 +6,7 @@
 :navigator="true" 
 :pagination="true"
 :startAutoPlay="true"
-:timeout="5000" 
+:timeout="4000" 
 class="Carousel" v-slot="{currentSlide}">
 <Slide v-for="(img, index) in carouselSlides" :key="index">
 <div v-show="currentSlide === index + 1" class="slide-info">
@@ -62,10 +62,6 @@ img {
   height:100vh;
   width:100%;
   object-fit:cover;
-  
-}
-.home{
-  overflow:hidden
 }
 
 

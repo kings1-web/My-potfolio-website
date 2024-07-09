@@ -78,9 +78,9 @@ export default{
     color:#f2f2f2f2
    }
    button{
-    margin:16px;
-    padding:16px;
-    font-size:20px
+    margin:1em;
+    padding:1em;
+    font-size:1.4
    }
    hr{
     width:30%;
@@ -91,11 +91,9 @@ export default{
    
    .all{
     max-width:100%;
-    max-height:100em;
+    max-height:100;
     text-transform:capitalize;
-    word-spacing:3px;
-    letter-spacing:2px;
-    line-height:40px;
+    line-height:2em;
     background-image:url('../assets/bg-7.jpg');
     background-repeat:no-repeat;
     background-size:contain;
